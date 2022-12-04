@@ -85,7 +85,6 @@
     - 리눅스 마스터2급
     - MOS EXCESS, WORD
     - DSAC 데이터 사이언티스트(3급)
-    - 테스팅
 <!--
 **changhyun-jang/changhyun-jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
