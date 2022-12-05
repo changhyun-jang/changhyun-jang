@@ -52,7 +52,7 @@
     - PERIOD: 2022.05 ~ 2022.06
     - [활동]
       2인1팀 리더로 참여.
-      '이글루씨큐리티' 기업 분석.
+      '이글루코퍼레이션' 기업 분석.
       최우수상 수상.
 
 ### 👉 catch-up 새내기 멘토링 '기숙사에서의 만남'👈
@@ -85,6 +85,7 @@
     - 리눅스 마스터2급
     - MOS EXCESS, WORD
     - DSAC 데이터 사이언티스트(3급)
+    - KSTQB CTBL 자격(BL과정)
 <!--
 **changhyun-jang/changhyun-jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
