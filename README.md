@@ -93,6 +93,16 @@
     - [활동](멘티)
       SPRING, MARIADB 등 사용법교육
       Github 사용법 교육
+      
+ ### 멋쟁이사자처럼 at남서울대학교
+    - PERIOD: 2023.01 ~ ing
+    - [활동](운영진)
+     프론트엔드(HTML, CSS, Javascript)
+     백엔드(Django, JSB)
+     블록체인(Solidity, ERC-20, React, Smart Contract)
+     앱(IOS)
+     디자인(Product design) 등 교육 예정
+ 
 
 ## LICENSE💬
 
