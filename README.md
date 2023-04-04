@@ -6,7 +6,7 @@
     - BIRTH: 1999.09.14
     - EMAIL: ckdgusjang@naver.com
     - EDUCATION:창현고등학교 졸업 
-                남서울대학교 18학번 2018.03 ~ ing(3학년 재학중)
+                남서울대학교 18학번 2018.03 ~ ing(4학년 재학중)
 
 ## PROJECT & SKILL 🧑🏻‍💻
 
