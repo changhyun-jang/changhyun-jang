@@ -17,16 +17,16 @@
     - [프로젝트 설명]
       첫 기획, 요구분석, 설계, 구현, 테스트, 유지 보수까지 진행한 팀프로젝트(팀원).
       학생들이 필요해 할만한 정보들을 제공해주는 챗봇.
-      bs4모듈을 통해 학교 사이트 크롤링하여 학교정보제공.
       카카오톡 추천친구를 통한 서비스 제공.
+      bs4모듈을 통해 학교 사이트 크롤링하여 학교정보제공 및 엔티티, 시나리오 등의 챗봇 요소 설정.
       
 ### QPLAN🏢
     - LANGUAGE: PYTHON, JAVA
-    - TOOL: androidstdio, visualstudiocode
-    - PERIOD: 2022.09 ~ ing
+    - TOOL: androidstdio, AWS, 구석구석API, firebase
+    - PERIOD: 2022.09 ~ 2023.06
     - [프로젝트 설명]
-      현재 기획, 요구분석을 마치고 설계 단계에 진입한 진행중인 팀프로젝트(팀원).
-      빅데이터 및 머신러닝을 이용한 여행플래너.
+      빅데이터 및 추천 알고리즘을 이용한 여행플래너.
+      구글맵API를 통한 현재위치탐색, 관광지 위치와 현재위치의 거리계산, 일정표 동적생성, 일정추가 탭, 일정 삭제, 회원가입시 auth 등록등의 기능 구
       
 ## SCHOOL ACTIVITY 👯
 
@@ -97,11 +97,9 @@
  ### 멋쟁이사자처럼 at남서울대학교
     - PERIOD: 2023.01 ~ ing
     - [활동](운영진)
-     프론트엔드(HTML, CSS, Javascript)
-     백엔드(Django, JSB)
-     블록체인(Solidity, ERC-20, React, Smart Contract)
-     앱(IOS)
-     디자인(Product design) 등 교육 예정
+     프론트엔드(HTML, CSS, Javascript,react)
+     전지나, 멘토링등의 활동
+     
  
 
 ## LICENSE💬
