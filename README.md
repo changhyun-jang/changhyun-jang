@@ -20,5 +20,5 @@
 
 
 ## ETC
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ckdgusjang&color=dark)](https://github.com/eungyeole/velog-readme-stats)   
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ckdgusjang&color=dark)](https://velog.io/@ckdgusjang)   
 <img src="https://github-readme-stats.vercel.app/api?username=changhyun-jang&theme=tokyonight&show_icons=true" width="42%" />
