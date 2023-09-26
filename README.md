@@ -21,4 +21,5 @@
 
 ## ETC
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ckdgusjang&color=dark)](https://velog.io/@ckdgusjang)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changhyun-jang)](https://github.com/changhyun-jang/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=changhyun-jang&theme=tokyonight&show_icons=true" width="42%" />
