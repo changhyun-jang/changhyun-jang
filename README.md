@@ -1,124 +1,24 @@
-#포트폴리오
-
 ## INTRO 👋
 
     - NAME: 장창현
     - BIRTH: 1999.09.14
     - EMAIL: ckdgusjang@naver.com
     - EDUCATION:창현고등학교 졸업 
-                남서울대학교 18학번 2018.03 ~ ing(4학년 재학중)
+                남서울대학교 18학번 2018.03 ~ 2023.08 졸업
+                포스코x코딩온 풀스택 부트캠프 진행중 2023.07 ~ ing
 
-## PROJECT & SKILL 🧑🏻‍💻
+## Skill
+#### Language
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-826100?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+#### BackEnd
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+#### FrontEnd
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 
-### 남서울대학교 정보 알리미📲
-    - LANGUAGE: PYTHON
-    - TOOL: kakaotalk, groomIDE
-    - PERIOD: 2022.09~2022.11(3개월)
-    - [프로젝트 설명]
-      첫 기획, 요구분석, 설계, 구현, 테스트, 유지 보수까지 진행한 팀프로젝트(팀원).
-      학생들이 필요해 할만한 정보들을 제공해주는 챗봇.
-      카카오톡 추천친구를 통한 서비스 제공.
-      bs4모듈을 통해 학교 사이트 크롤링하여 학교정보제공 및 엔티티, 시나리오 등의 챗봇 요소 설정.
-      
-### QPLAN🏢
-    - LANGUAGE: PYTHON, JAVA
-    - TOOL: androidstdio, AWS, 구석구석API, firebase
-    - PERIOD: 2022.09 ~ 2023.06
-    - [프로젝트 설명]
-      빅데이터 및 추천 알고리즘을 이용한 여행플래너.
-      구글맵API를 통한 현재위치탐색, 관광지 위치와 현재위치의 거리계산, 일정표 동적생성, 일정추가 탭, 일정 삭제, 회원가입시 auth 등록등의 기능 구
-      
-## SCHOOL ACTIVITY 👯
+#### Devops
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
-### 👉 학부생 연구원 👈
-    - PERIOD: 2021.08 ~ ing
-    - [활동]
-      컨퍼런스 및 세미나 참여 
-      IT관련 논문 번역, 강의 자료 제작.
-      
-### 👉 학습동아리'믿을 수 있는 식품 파이썬'👈
-    - PERIOD: 2021.09 ~ 2021.11
-    - [활동]
-      5명 스터디 모임(리더)
-      교재: '혼자공부하는 파이썬'.
-      PYTHON 기본 문법 및 응용 학습.
 
-### 👉 창업 동아리 'REVERSE'👈
-    - PERIOD: 2022.04 ~ 2022.12
-    - [활동]
-      1학년 2명 팀 프로그래밍언어 멘토링(멘토)
-      C언어 기본 문법 멘토링
-      PYTHON 기본 문법 멘토링
-
-### 👉 기업분석 경진대회 '공대생en'👈
-    - PERIOD: 2022.05 ~ 2022.06
-    - [활동]
-      2인1팀 (리더).
-      '이글루코퍼레이션' 기업 분석.
-      최우수상 수상.
-
-### 👉 catch-up 새내기 멘토링 '기숙사에서의 만남'👈
-    - PERIOD: 2022.09 ~ 2022.12
-    - [활동]
-      1학년 1대1멘토링(멘토)
-      학교생활 적응 및 C언어 멘토
-      장려상 수상
-
-### 👉 with-plus 멘토링 '송장의 추억'👈
-    - PERIOD: 2022.09 ~ 2022.12
-    - [활동]
-      같은 학년의 학우 1대1멘토링(멘토)
-      교재: '컴퓨팅 사고와 파이썬'
-      학업 향상 기여, PYTHON 멘토
-
-### 👉 학습포트폴리오 경진대회 👈
-    - PERIOD: 2022.09 ~ 2022.12
-    - [활동]
-      목표 설정 및 학습계획.
-      코딩테스트를 위한 백준 알고리즘 풀이.
-      ('Do It! 안드로이드 프로그래밍'교재)앱 개발을 위한 Android Studio 학습.
-      
-
-## EXTERNAL ACTIVITY 👯
-
-### K-해커톤 (충청권 예선)'난 부럽지갑 않아'
-    - PERIOD: 2022.06 ~ 2022.07
-    - [활동]
-      5인 1팀 (리더)
-      사회적 문제 및 기여 아이디어.
-      디지털 커스터마이징 명함 어플'ToB'기획.
-      
-### 코멘토 직무부트캠프 참여
-    - PERIOD: 2022.07 ~ 2022.08
-    - [활동](멘티)
-      SPRING, MARIADB 등 사용법교육
-      Github 사용법 교육
-      
- ### 멋쟁이사자처럼 at남서울대학교
-    - PERIOD: 2023.01 ~ ing
-    - [활동](운영진)
-     프론트엔드(HTML, CSS, Javascript,react)
-     전지나, 멘토링등의 활동
-     
- 
-
-## LICENSE💬
-
-    - 리눅스 마스터2급             - DSAC 데이터 사이언티스트(3급)
-    - MOS EXCESS, WORD             - KSTQB CTBL 자격(BL과정)
-    
-    
-<!--
-**changhyun-jang/changhyun-jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ETC
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ckdgusjang&color=dark)](https://github.com/eungyeole/velog-readme-stats)   
+<img src="https://github-readme-stats.vercel.app/api?username=changhyun-jang&theme=tokyonight&show_icons=true" width="42%" />
