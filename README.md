@@ -1,11 +1,8 @@
 ## INTRO 👋
 
     - NAME: 장창현
-    - BIRTH: 1999.09.14
     - EMAIL: ckdgusjang@naver.com
-    - EDUCATION:창현고등학교 졸업 
-                남서울대학교 18학번 2018.03 ~ 2023.08 졸업
-                포스코x코딩온 풀스택 부트캠프 진행중 2023.07 ~ ing
+    - STATUS : 취업준비중!
 
 ## Skill
 #### Language
