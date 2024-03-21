@@ -24,3 +24,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changhyun-jang)](https://github.com/changhyun-jang/github-readme-stats)
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=changhyun-jang&theme=tokyonight&show_icons=true" width="42%" />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckdgusjang)](https://solved.ac/ckdgusjang/)
