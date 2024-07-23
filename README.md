@@ -2,8 +2,8 @@
 
     - NAME: 장창현
     - EMAIL: ckdgusjang@naver.com
-    - STATUS : 취업준비중!
-
+    - STATUS : 금융IT개발자로 성장중
+    
 ## Skill
 #### Language
 <img src="https://img.shields.io/badge/Java-826100?style=flat-square"/>
